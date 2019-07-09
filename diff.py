@@ -1,3 +1,3 @@
-a,b=map(int,input().split())
-c=b-a
+q,b=map(int,input().split())
+c=b-q
 print(c)
